@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:2:1-86:12
+	package
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:4:5-35
+supports-screens
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:8:5-14:40
+	android:largeScreens
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:10:9-36
+	android:smallScreens
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:11:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:14:9-37
+	android:resizeable
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:12:9-34
+	android:anyDensity
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:9:9-34
+uses-sdk
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:16:5-47
+INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:16:5-47
+INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:16:5-47
+INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:16:5-47
+INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:16:5-47
+	android:targetSdkVersion
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:16:15-44
+		INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:16:5-47
+		INJECTED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:20:5-74
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:20:22-71
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:21:22-70
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:22:5-23:23
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:24:22-78
+uses-feature#android.hardware.bluetooth
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:26:5-28:35
+	android:required
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:28:9-32
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:27:9-50
+application
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:30:5-84:19
+	android:label
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:34:9-41
+	android:icon
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:33:9-43
+	android:allowBackup
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:32:9-35
+	android:theme
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:35:9-40
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:31:9-61
+activity#com.evolute.lilygendemoapp.Act_SplashScreen
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:36:9-46:20
+	android:screenOrientation
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:38:13-49
+	android:theme
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:40:13-77
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:37:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:44:27-74
+activity#com.evolute.lilygendemoapp.Act_Main
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:47:9-53:80
+	android:screenOrientation
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:52:13-49
+	android:label
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:50:13-54
+	android:launchMode
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:51:13-42
+	android:configChanges
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:49:13-85
+	android:theme
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:53:13-77
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:48:13-63
+activity#com.evolute.lilygendemoapp.Act_BTDiscovery
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:54:9-60:80
+	android:screenOrientation
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:57:13-54
+	android:launchMode
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:58:13-42
+	android:configChanges
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:56:13-85
+	android:theme
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:60:13-77
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:55:13-70
+activity#com.evolute.lilygendemoapp.Act_FPS
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:61:9-65:20
+	android:screenOrientation
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:63:13-49
+	android:theme
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:64:13-77
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:62:13-62
+activity#com.evolute.lilygendemoapp.Act_MagCard
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:66:9-70:20
+	android:screenOrientation
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:68:13-49
+	android:theme
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:69:13-77
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:67:13-66
+activity#com.evolute.lilygendemoapp.Act_SmartCard
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:71:9-75:20
+	android:screenOrientation
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:73:13-49
+	android:theme
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:74:13-77
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:72:13-68
+activity#com.evolute.lilygendemoapp.Act_SelectPeripherals
+ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:77:9-81:20
+	android:screenOrientation
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:79:13-49
+	android:theme
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:80:13-77
+	android:name
+		ADDED from C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:78:13-76

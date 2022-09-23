@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background"
+    android:orientation="vertical" >
+
+     <RelativeLayout
+         android:id="@+id/lay1"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_alignParentTop="true" >
+
+		 <!--<ImageView
+
+			 android:id="@+id/imageView1"
+			 android:layout_width="fill_parent"
+			 android:layout_height="wrap_content"
+			 android:layout_alignParentTop="true"
+			 android:scaleType="fitXY"
+			 android:src="@drawable/titlelily" /> -->
+
+
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/homelay3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/homelay1"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/btbannerlay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            
+            android:gravity="center"
+            android:orientation="vertical"
+           >
+
+            <TextView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bluetooth Connectivity"
+                android:layout_marginLeft="15dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#551033"
+                android:textStyle="bold"
+                android:typeface="normal"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/lay21"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="left"
+                    android:layout_marginLeft="10dp"
+                    android:orientation="vertical" >
+
+                    <Button
+                         android:id="@+id/scanbt_but"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/but" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/lay2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="left|center_vertical"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/scanbt_tv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Scan BT Devices"
+                        android:layout_marginRight="50dp"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textColor="#551033"
+                        android:textStyle="bold"
+                        android:typeface="normal"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+	<ScrollView
+
+		android:id="@+id/mainlay"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:fadingEdge="vertical"
+		android:scrollbars="vertical"
+		android:visibility="gone">
+
+		<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical">
+
+			<LinearLayout
+				android:id="@+id/actMain_ll_device_ctrl"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="20dp"
+				android:layout_marginTop="15dp"
+				android:layout_marginBottom="15dip"
+				android:orientation="horizontal">
+
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/actMain_link_device_info_title"
+					android:textAppearance="?android:attr/textAppearanceMedium"
+					android:textColor="#250234"
+					android:textStyle="italic|normal" />
+
+				<TextView
+					android:id="@+id/actMain_tv_device_info"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginLeft="10dip"
+					android:text="@string/actMain_device_info"
+					android:textAppearance="?android:attr/textAppearanceMedium"
+					android:textColor="#250234" />
+			</LinearLayout>
+
+			<!-- 配对与连接处理 -->
+			<LinearLayout
+				android:id="@+id/actMain_ll_pair_or_comm"
+				android:layout_width="300dp"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_horizontal"
+				android:layout_marginLeft="10dip"
+				android:layout_marginRight="10dip"
+				android:layout_marginBottom="2dp"
+				android:orientation="horizontal"
+				android:padding="5dp">
+
+				<Button
+					android:id="@+id/actMain_btn_pair"
+					style="?android:attr/buttonStyleSmall"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:background="@color/color_primary"
+					android:onClick="onClickBtnPair"
+					android:text="@string/actMain_btn_pair"
+					android:textAppearance="?android:attr/textAppearanceMedium"
+					android:textColor="#f4e6f9"
+					android:textStyle="italic" />
+
+				<Button
+					android:id="@+id/actMain_btn_conn"
+					style="?android:attr/buttonStyleSmall"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:background="@color/color_primary"
+					android:onClick="onClickBtnConn"
+					android:text="@string/actMain_btn_comm"
+					android:textAppearance="?android:attr/textAppearanceMedium"
+					android:textColor="#f4e6f9"
+					android:textStyle="italic" />
+			</LinearLayout>
+
+			<LinearLayout
+				android:id="@+id/actMain_ll_pair_or_comm2"
+				android:layout_width="300dp"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_horizontal"
+				android:layout_marginLeft="10dip"
+				android:layout_marginRight="10dip"
+				android:orientation="horizontal"
+				android:padding="5dp">
+
+				<Button
+					android:id="@+id/btn_exit"
+					style="?android:attr/buttonStyleSmall"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:background="@color/color_primary"
+					android:text="Exit"
+					android:textAppearance="?android:attr/textAppearanceMedium"
+					android:textColor="#f4e6f9"
+					android:textStyle="italic" />
+			</LinearLayout>
+			<!-- Start selection mode -->
+			<LinearLayout
+				android:id="@+id/actMain_ll_choose_mode"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="10dip"
+				android:layout_marginRight="10dip"
+				android:orientation="vertical">
+
+				<LinearLayout
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:orientation="horizontal"></LinearLayout>
+			</LinearLayout>
+
+		</LinearLayout>
+	</ScrollView>
+</LinearLayout>

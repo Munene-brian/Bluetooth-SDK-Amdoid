@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "1",
+                        "startOffsets": "173",
+                        "endLines": "8",
+                        "endColumns": "9",
+                        "endOffsets": "298"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "178"
+                    }
+                }
+            ]
+        }
+    ]
+}

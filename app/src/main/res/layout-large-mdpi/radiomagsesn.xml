@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="400dp"
+    android:layout_height="380dp"
+    android:orientation="vertical" >
+ 
+    <RadioGroup
+        android:id="@+id/radio2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" >
+ 
+        <RadioButton
+            android:id="@+id/seventh_radio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/radio_aes2" 
+            android:textStyle="bold"
+            android:textColor="#8B4513"/>
+        <RadioButton
+            android:id="@+id/eigth_radio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/radio_tdes2" 
+            android:textStyle="bold"
+            android:textColor="#8B4513"/>
+ 
+    </RadioGroup>
+    
+    <EditText
+        android:id="@+id/sessionkeyaes"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:gravity="center|center_horizontal"
+        android:maxLength="16"
+        android:inputType="number"
+        android:hint="Session Key" />
+
+    <EditText
+        android:id="@+id/sessionkeytdes"
+        android:visibility="gone"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:gravity="center|center_horizontal"
+        android:maxLength="24"
+        android:inputType="number"
+        android:hint="Session Key" />
+    
+      <EditText
+        android:id="@+id/Authenticationkey"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center|center_horizontal"
+        android:hint="Authentication Key" />
+
+    
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp" >
+
+        <Button
+            android:id="@+id/sendkey"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="74dp"
+            android:text="Send session Key" 
+            android:textSize="16dp"
+            android:textColor="#983b59"/>
+
+        <Button
+            android:id="@+id/cancel2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@+id/sendkey"
+            android:text="Cancel" 
+            android:textSize="16dp"
+            android:textColor="#983b59"/>
+
+        <Button
+            android:id="@+id/readmag2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/cancel2"
+            android:layout_below="@+id/sendkey"
+            android:layout_marginRight="24dp"
+            android:layout_marginTop="24dp"
+            android:textSize="20dp"
+            android:textColor="#983b59"
+            android:text="Read MagCard Data" />
+  
+    </RelativeLayout>
+</LinearLayout>

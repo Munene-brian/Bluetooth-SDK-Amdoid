@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/lay1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/titlelily" />
+
+        <Button
+            android:id="@+id/information_but"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/imageView1"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/information_code" />
+
+        <Button
+            android:id="@+id/exit_but"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/imageView1"
+            android:layout_alignLeft="@+id/in"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="80dp"
+            android:background="@drawable/exit_code" />
+    </RelativeLayout>
+
+    <!-- <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="1"
+        android:src="@drawable/selectper2" /> -->
+
+     <TextView
+        android:id="@+id/tv_selectPheripheral"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="70dp"
+        android:layout_weight="1"
+        android:text="SELECT PERIPHERALS"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#551033"
+        android:textStyle="italic|bold"
+        android:typeface="serif" /> 
+         
+
+    <LinearLayout
+        android:id="@+id/main_lay1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/lay12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/mag_but"
+                android:layout_width="102dp"
+                android:layout_height="88dp"
+                android:background="@drawable/mag_back" />
+
+            <TextView
+                android:id="@+id/tvMag"
+                style="@style/textfont"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Magneticcard" 
+               	android:textAppearance="?android:attr/textAppearanceLarge"
+        		android:textColor="#551033"
+       			android:textStyle="italic|bold"
+        		android:typeface="serif"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/lay12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/fps_but"
+                android:layout_width="100dp"
+                android:layout_height="89dp"
+                android:background="@drawable/fps_back" />
+
+            <TextView
+                android:id="@+id/tvFps"
+                style="@style/textfont"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fps"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+      		    android:textColor="#551033"
+      		    android:textStyle="italic|bold"
+       			android:typeface="serif" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/main_lay3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/lay12"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/smart_but"
+                android:layout_width="106dp"
+                android:layout_height="88dp"
+                android:background="@drawable/smart_but" />
+
+            <TextView
+                android:id="@+id/tvSc"
+                style="@style/textfont"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/smartcard"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+        		android:textColor="#551033"
+       			android:textStyle="italic|bold"
+        		android:typeface="serif" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

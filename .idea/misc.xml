@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/activity_fps.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/activity_magneticcard.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/activity_smartcard.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/activity_splash.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/bdteamsupport.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/btdiscovery.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/customsmart.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/dlg_bardchange.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/dlg_customsmart.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/dlg_informationbox.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/first.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/list_item1.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/list_view_item_devices.xml" value="0.3572916666666667" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/mail_bdteamsupport.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/main.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/nooffingers.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/progressdialog1.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/radiomagdft.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/BrianMunene/AndroidStudioProjects/New/ProwessLilly/app/src/main/res/layout/radiomagsesn.xml" value="0.26875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

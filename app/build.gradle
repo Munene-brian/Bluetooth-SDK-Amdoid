@@ -1,0 +1,24 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 'Google Inc.:Google APIs:17'
+    buildToolsVersion "30.0.1"
+
+    defaultConfig {
+        applicationId "com.evolute.lilydemo"
+        minSdkVersion 7
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/ImageSupport-V1.5.jar')
+    compile files('libs/ProwessLilyGenSdk-V0.04.jar')
+}

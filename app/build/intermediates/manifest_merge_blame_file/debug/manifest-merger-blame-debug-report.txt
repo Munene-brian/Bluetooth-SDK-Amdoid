@@ -1,0 +1,157 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.evolute.lilydemo"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+8-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:16:5-47
+9        android:minSdkVersion="7"
+9-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:16:5-47
+10        android:targetSdkVersion="19" />
+10-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:16:15-44
+11
+12    <supports-screens
+12-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:8:5-14:40
+13        android:anyDensity="true"
+13-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:9:9-34
+14        android:largeScreens="true"
+14-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:10:9-36
+15        android:normalScreens="true"
+15-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:11:9-37
+16        android:resizeable="true"
+16-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:12:9-34
+17        android:smallScreens="true"
+17-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:13:9-36
+18        android:xlargeScreens="true" />
+18-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:14:9-37
+19
+20    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+20-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:18:5-80
+20-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:18:22-78
+21    <uses-permission android:name="android.permission.BLUETOOTH" />
+21-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:19:5-68
+21-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:19:22-65
+22    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+22-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:20:5-74
+22-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:20:22-71
+23    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+23-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:21:5-73
+23-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:21:22-70
+24    <uses-permission android:name="android.permission.INTERNET" >
+24-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:22:5-23:23
+24-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:22:22-64
+25    </uses-permission>
+26    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+26-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:24:5-81
+26-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:24:22-78
+27
+28    <uses-feature
+28-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:26:5-28:35
+29        android:name="android.hardware.bluetooth"
+29-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:27:9-50
+30        android:required="true" />
+30-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:28:9-32
+31
+32    <application
+32-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:30:5-84:19
+33        android:name="com.evolute.lilygendemoapp.GlobalPool"
+33-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:31:9-61
+34        android:allowBackup="true"
+34-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:32:9-35
+35        android:debuggable="true"
+36        android:icon="@drawable/bluetooth"
+36-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:33:9-43
+37        android:label="@string/app_name"
+37-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:34:9-41
+38        android:theme="@style/AppTheme" >
+38-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:35:9-40
+39        <activity
+39-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:36:9-46:20
+40            android:name="com.evolute.lilygendemoapp.Act_SplashScreen"
+40-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:37:13-71
+41            android:label="@string/actMain_name"
+41-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:38:13-49
+42            android:screenOrientation="portrait"
+42-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:39:13-49
+43            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+43-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:40:13-77
+44            <intent-filter>
+44-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:41:13-45:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:42:17-69
+45-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:42:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:44:17-77
+47-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:44:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:47:9-53:80
+51            android:name="com.evolute.lilygendemoapp.Act_Main"
+51-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:48:13-63
+52            android:configChanges="keyboardHidden|navigation|orientation|screenSize"
+52-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:49:13-85
+53            android:label="@string/actDiscovery_name"
+53-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:50:13-54
+54            android:launchMode="standard"
+54-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:51:13-42
+55            android:screenOrientation="portrait"
+55-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:52:13-49
+56            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+56-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:53:13-77
+57        <activity
+57-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:54:9-60:80
+58            android:name="com.evolute.lilygendemoapp.Act_BTDiscovery"
+58-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:55:13-70
+59            android:configChanges="keyboardHidden|navigation|orientation|screenSize"
+59-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:56:13-85
+60            android:label="@string/actDiscovery_name"
+60-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:57:13-54
+61            android:launchMode="standard"
+61-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:58:13-42
+62            android:screenOrientation="portrait"
+62-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:59:13-49
+63            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+63-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:60:13-77
+64        <activity
+64-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:61:9-65:20
+65            android:name="com.evolute.lilygendemoapp.Act_FPS"
+65-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:62:13-62
+66            android:screenOrientation="portrait"
+66-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:63:13-49
+67            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+67-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:64:13-77
+68        </activity>
+69        <activity
+69-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:66:9-70:20
+70            android:name="com.evolute.lilygendemoapp.Act_MagCard"
+70-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:67:13-66
+71            android:screenOrientation="portrait"
+71-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:68:13-49
+72            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+72-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:69:13-77
+73        </activity>
+74        <activity
+74-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:71:9-75:20
+75            android:name="com.evolute.lilygendemoapp.Act_SmartCard"
+75-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:72:13-68
+76            android:screenOrientation="portrait"
+76-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:73:13-49
+77            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+77-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:74:13-77
+78        </activity>
+79        <activity
+79-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:77:9-81:20
+80            android:name="com.evolute.lilygendemoapp.Act_SelectPeripherals"
+80-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:78:13-76
+81            android:screenOrientation="portrait"
+81-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:79:13-49
+82            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+82-->C:\Users\BrianMunene\AndroidStudioProjects\New\ProwessLilly\app\src\main\AndroidManifest.xml:80:13-77
+83        </activity>
+84    </application>
+85
+86</manifest>

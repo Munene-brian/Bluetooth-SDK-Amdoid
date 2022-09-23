@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+   
+
+        <LinearLayout
+            android:id="@+id/teztlay"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:gravity="top"
+            android:background="@drawable/outside_box"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/texlay1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:layout_marginLeft="10dp"
+                
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/title"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textStyle="bold"
+                    android:textColor="#000000" 
+                     />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/texlay2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="bottom"
+                android:gravity="bottom"
+                android:background="@drawable/button1"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/desc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="35dp"
+                    android:typeface="serif"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="#000000" />
+            </LinearLayout>
+        </LinearLayout>
+ 
+
+</RelativeLayout>

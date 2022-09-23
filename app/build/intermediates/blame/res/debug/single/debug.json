@@ -1,0 +1,642 @@
+[
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_exit_back1.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\exit_back1.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_exit.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\btn_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_fps_back.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-ldpi\\fps_back.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_icon.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_up_out.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_cycle.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_dlg_customsmart.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\dlg_customsmart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_informationimg1.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\informationimg1.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smart_but_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\smart_but_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ser_port_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\ser_port_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mag_back.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\mag_back.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_activity_smartcard.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\activity_smartcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magcardtitle2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\magcardtitle2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_radiomagdft.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\radiomagdft.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fpst.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\fpst.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fps_back_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-mdpi\\fps_back_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_samplelogo2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\samplelogo2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fps_back.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-mdpi\\fps_back.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inside_box.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\inside_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_magneticcard.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\activity_magneticcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_set_top.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\set_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_exit_back2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\exit_back2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fps.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\activity_fps.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_scale.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\anim_scale.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_shake.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_left_in.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_left_out.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_fpsscan.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\fpsscan.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_right_left.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\right_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mag_back.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-ldpi\\mag_back.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_mag_back_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\mag_back_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_fpsimg.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\fpsimg.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_customsmart.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\customsmart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_selectper2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\selectper2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_serialporttitle2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\serialporttitle2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ser_port_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-ldpi\\ser_port_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mag_back.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-mdpi\\mag_back.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_nooffingers.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\nooffingers.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_smart_but.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-ldpi\\smart_but.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exit_back2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\exit_back2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_view_item_devices.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\list_view_item_devices.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_hyperspace_in.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\hyperspace_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_dlg_informationbox.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\dlg_informationbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_btdiscovery.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\btdiscovery.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_hyperspace_out.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\hyperspace_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_billuback2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\billuback2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outside_box.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\outside_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_set.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\set.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_fps_back_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\fps_back_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_up_in.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_mag_back.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\mag_back.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_alpha.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_print.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\btn_print.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_infoicon1.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\infoicon1.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item1.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\list_item1.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_fps_back_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-ldpi\\fps_back_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_main.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_smartcard.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\activity_smartcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_infoicon1.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\infoicon1.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_progressdialog1.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\progressdialog1.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_radiomagsesn.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\radiomagsesn.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_dlg_informationbox.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\dlg_informationbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_screen.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_ser_port_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\ser_port_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ser_port_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-mdpi\\ser_port_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_but.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\but.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon48.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-mdpi\\icon48.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_selectper2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\selectper2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_box.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\background_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_dlg_customsmart.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\dlg_customsmart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\back2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bt3.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\bt3.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_top.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_list_view_item_devices.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\list_view_item_devices.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_mail_bdteamsupport.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\mail_bdteamsupport.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\scan.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hr_gray_white.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\hr_gray_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_activity_splash.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ser_port.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-ldpi\\ser_port.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button1.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\button1.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_fpst.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\fpst.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_wave_scale.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\wave_scale.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_information.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\btn_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_list_item1.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\list_item1.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ser_port.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-mdpi\\ser_port.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_print_button.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\print_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_fpstop1.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\fpstop1.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smart_but.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-mdpi\\smart_but.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_radiomagdft.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\radiomagdft.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fpsimg.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\fpsimg.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg1.jpg.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\bg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_bt3.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\bt3.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_smart_but_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-ldpi\\smart_but_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_printer2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\printer2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mag_back_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-ldpi\\mag_back_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_smartcardtitle2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\smartcardtitle2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fpstop1.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\fpstop1.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_btbanner1.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\btbanner1.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_customsmart.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\customsmart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fps_back_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\fps_back_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_first.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\first.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_mail_bdteamsupport.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\mail_bdteamsupport.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mag_back_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-mdpi\\mag_back_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_bdteamsupport.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\bdteamsupport.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_btdiscovery.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\btdiscovery.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bt2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\bt2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_samimg.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-mdpi\\samimg.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_magcardtitle2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\magcardtitle2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_infoicon2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\infoicon2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bluetooth.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\btn_bluetooth.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_infoicon2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\infoicon2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_bt2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\bt2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_fps_back.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\fps_back.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smart_but.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\smart_but.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_dlg_bardchange.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\dlg_bardchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smartcardtitle2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\smartcardtitle2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_nooffingers.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\nooffingers.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bluetooth.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_activity_magneticcard.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\activity_magneticcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ser_port.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\ser_port.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_smart_but.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\smart_but.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\raw_licence_lillyfull.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\raw\\licence_lillyfull"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_screen.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_dlg_bardchange.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\dlg_bardchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smart_but_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-mdpi\\smart_but_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_titlelily.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\titlelily.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_smart_but_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\smart_but_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_btn_sandrift.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\custom_btn_sandrift.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fpsscan.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\fpsscan.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_information_code.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\information_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_informationimg1.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\informationimg1.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_ser_port.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\ser_port.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fps_back.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\fps_back.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_first.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\first.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_left_right.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\left_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_progressdialog1.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\progressdialog1.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_activity_fps.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\activity_fps.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_printer_back.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\printer_back.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exit_back1.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\exit_back1.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_set_bottom.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\set_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_serialporttitle2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\serialporttitle2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout_radiomagsesn.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout\\radiomagsesn.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_titlelily.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\titlelily.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_billuback2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\billuback2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mag_back_inactive.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\mag_back_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-mdpi_bdteamsupport.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\layout-large-mdpi\\bdteamsupport.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_exit_code.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\exit_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_top_to_bottom.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\slide_top_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi_scan.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-large-mdpi\\scan.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\anim_set_right.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\anim\\set_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_samplelogo2.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\samplelogo2.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btbanner1.png.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable-hdpi\\btbanner1.png"
+    },
+    {
+        "merged": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_effect.xml.flat",
+        "source": "C:\\Users\\BrianMunene\\AndroidStudioProjects\\New\\ProwessLilly\\app\\src\\main\\res\\drawable\\ripple_effect.xml"
+    }
+]
